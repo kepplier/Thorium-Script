@@ -44,7 +44,7 @@ roundCorners(loginButton)
 -- Tokens for validation
 local validTokens = {
     "}lZ,C2RDsGrY@tD!r@Y{X@,A3OH.E(PB*+,DLG=e+?Q;!EyqSz",
-    "Oa-C\pZ3c}c!W+s7eM?Xi\ray9jRuO?0wy"-;'oxA+.WZgb}Y.",
+    "Oa-CZ3c}c!W+s7eM?Xi\ray9jRuO?0wy"'oxA+.WZgb}Y.",
     "Y(b1EkBrvyx.orT9:,gu-Hvwg+T1PZCkJlzKDSUIxbX.'.]]PB"
 }
 
