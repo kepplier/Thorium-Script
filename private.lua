@@ -43,7 +43,7 @@ roundCorners(loginButton)
 
 -- Tokens for validation
 local validTokens = {
-    "CVQFsYrBUQDpc3futjZzxG1BzlvRDcOg9OH321cZlUpG0JK6Dl1qP1bPmp2t2ZBs",
+    "CVQFsYrB",
     "TOKEN1", -- Add more tokens here
     "TOKEN2"  -- Add more tokens here
 }
